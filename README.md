@@ -52,8 +52,8 @@
 
 ## 📊 GitHub Stats  
 
-![Hasibul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasibul217&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul217&layout=compact&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul217&layout=compact&theme=dark)  
 
 --
 
