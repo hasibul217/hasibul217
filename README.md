@@ -53,7 +53,11 @@
 ## 📊 GitHub Stats  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul217&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul217&layout=compact&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api?username=hasibul217&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hasibul217&theme=dark&hide_border=true)
 
 --
 
