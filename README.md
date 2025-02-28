@@ -4,7 +4,7 @@
 
 - 👨‍💻 Frontend Developer at **MADBangla**  
 - 🎓 Graduate of **United International University**  
-- 🌍 Based in **Dhaka, Bangladesh** (UTC +06:00)  
+- 🌍 Current Location **Dhaka, Bangladesh** (UTC +06:00)  
 - 💻 Currently working on a **React + Django** project  
 - 🎨 Passionate about **responsive UI/UX & modern web technologies**  
 
