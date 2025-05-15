@@ -2,7 +2,7 @@
 
 ## 🚀 About Me  
 
-- 👨‍💻 Frontend Developer at **MADBangla**  
+- 👨‍💻 Jr. Frontend Developer at **MADBangla**  
 - 🎓 Graduate of **United International University**  
 - 🌍 Current Location **Dhaka, Bangladesh** (UTC +06:00)  
 - 💻 Currently working on a **React + Django** project  
